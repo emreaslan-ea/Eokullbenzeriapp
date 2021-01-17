@@ -1,0 +1,17 @@
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\bin\Debug\Eokulbenzeriapp.exe.config
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\bin\Debug\Eokulbenzeriapp.exe
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\bin\Debug\Eokulbenzeriapp.pdb
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.csprojAssemblyReference.cache
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmAnaGiris.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.Properties.Resources.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.csproj.GenerateResource.cache
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.csproj.CoreCompileInputs.cache
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.exe
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.pdb
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmOgrenciNotlari.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmOgretmen.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmKulupİslemleri.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmDersislemleri.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmOgrencislemleri.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmSınavNotlari.resources
+C:\C# My Projects\Proje 9 e okul benzeri app\Eokulbenzeriapp\Eokulbenzeriapp\obj\Debug\Eokulbenzeriapp.FrmYukleniyorcs.resources
